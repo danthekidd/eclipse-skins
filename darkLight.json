@@ -1,0 +1,62 @@
+{
+  "name": "Twitter Dark Mode",
+  "logo": "https://igba.shuga.co/img/twitterDark.png",
+  "author": "Shuga",
+  "description": "Twitter's Dark Mode.",
+  "styles": [
+    {
+      "iOSicon": "color:#1ba1f2;opacity:1",
+      "MDicon": "color:white;opacity:1",
+      "button": "background:#1ba1f2",
+      "navbar": "background:#243447!important",
+      "header": "background:#243447!important;color:white!important",
+      "mdHeader": "background:#243447!important;color:white!important",
+      "cell": "background-color:#243447!important;color:white!important",
+      "cellChevron": "color:#e0e0e0",
+      "containerBackground": "background-color:#1b2836!important;color:#e0e0e0",
+      "toolbar": "background-color:#243447;color:white!important",
+      "emulatorBackground": "background-image:none;background:#243447!important",
+      "gradient": "background-image:none;background:#141c26!important",
+      "iOSoutOfFocus": "color:#929292;",
+      "MDoutOfFocus": "",
+      "iOSinFocus": "color:#1ba1f2;",
+      "MDinFocus": "",
+      "MDtoggleHead": "background:#1ba1f2;",
+      "MDtoggleBody": "background:rgba(27,161,242,0.5);",
+      "iOStoggleHead": "",
+      "iOStoggleBody": "background:#1ba1f2;",
+      "fab": "color:white;background:#1ba1f2!important",
+      "tint": "color:#1ba1f2;",
+      "label": "color:white!important",
+      "triggerL": "background-color:#141c26;color:gray",
+      "triggerR": "background-color:#141c26;color:gray",
+      "center": "background-color:#141c26;color:gray",
+      "right": "background-color:#141c26;color:gray",
+      "left": "background-color:#141c26;color:gray",
+      "up": "background-color:#141c26;color:gray",
+      "down": "background-color:#141c26;color:gray",
+      "aBtn": "background-color:#141c26;color:gray",
+      "bBtn": "background-color:#141c26;color:gray",
+      "xBtn": "background-color:#141c26;color:gray",
+      "yBtn": "background-color:#141c26;color:gray",
+      "startBtn": "background-color:#141c26;color:gray",
+      "select": "background-color:#141c26;color:gray",
+      "cellGroupTitle": "color:#6d6d72!important",
+      "hairlines": "background-color:#141c26",
+      "searchbar": "background:#141c26;background-color:#141c26!important;color:white!important",
+      "caption": "color:white!important;opacity:.8!important",
+      "icon": "color:#737373!important",
+      "searchbarFocus": "background:#19232f!important",
+      "buttonHover": "background:#1580c1!important",
+      "buttonFocus": "background:#1270a9!important",
+      "greenText": "color:#21f21a",
+      "blueText": "color:#1ba1f2",
+      "custom":[  
+	  {  
+	      "cyrushub":".cyrusLogo {background-image: url('https://i.imgur.com/MtPJOG1.png');margin-top: 16px; width: 161px; height: 54.1px; background-size: cover;background-position: 50%;}",
+	      "casa": ".btn.btn > a {color: #dedede!important}"
+	  }
+      ]
+    }
+  ]
+}
