@@ -1,8 +1,8 @@
 {
-  "name": "Twitter Dark Mode",
-  "logo": "https://igba.shuga.co/img/twitterDark.png",
-  "author": "Shuga",
-  "description": "Twitter's Dark Mode.",
+  "name": "Dark Light",
+  "logo": "",
+  "author": "danthekidd",
+  "description": "",
   "styles": [
     {
       "iOSicon": "color:#1ba1f2;opacity:1",
