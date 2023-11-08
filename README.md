@@ -1,1 +1,1 @@
-# Eclipse-Themes
+# Eclipse Skins
